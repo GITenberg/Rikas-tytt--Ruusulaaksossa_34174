@@ -1,0 +1,26 @@
+_repo: Rikas-tytt--Ruusulaaksossa_34174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomasson, Pehr
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '36449'
+    url: http://www.gutenberg.org/2009/agents/36449
+description: ''
+gutenberg_issued: '2010-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34174'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcc 'PT'
+title: Rikas tyttö Ruusulaaksossa
+url: http://www.gutenberg.org/ebooks/34174
